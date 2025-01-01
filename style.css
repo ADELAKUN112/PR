@@ -1,0 +1,101 @@
+.welcome{
+    margin-left:19px;
+  }
+  body{
+    background-color: #1b1b32;
+    color:white;
+    font-family:Tahoma;
+    font-size:17px;
+  }
+  h1{
+        text-align: center;
+        margin-left: -2em;
+        font-weight: 900;
+        font-size: 22px;
+        color: white;
+  }
+  p{
+    margin-left:28px;
+  }
+  .come{
+    margin-left:5px;
+    border-top:1px solid #86879A;
+    width:16em;
+  }
+  button{
+    background-color: #B3B5C6;
+    width:280px;
+    height:35px;
+    line-height:35px;
+    margin:auto;
+    text-align:center;
+    border:none;
+    cursor:pointer;
+    opacity:0.8;
+    border:1px solid #9397C8;
+    border-radius:3px;
+    transition:transform 1s;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalise;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  button:active{
+    transform:scale(1.1);
+  }
+  input[type="password"]{
+    display:block;
+    border:none;
+    width:20em;
+    height:2em;
+    background-color:black;
+    margin-top: 3px;
+    color:white;
+  }
+  input[type="textbox"]{
+    display:block;
+    border:none;
+    width:20em;
+    height:2em;
+    background-color:black;
+    margin-top: 3px;
+    color:white;
+  }
+  hr, .terms{
+    width:16.5em;
+    margin-left:1px;
+  }
+  .how{
+    width:20em;
+    height:2em;
+    background-color:whitesmoke;
+    border:none;
+  }
+  textarea{
+    width:20em;
+    background-color:black;
+    color:whitesmoke;
+    border:none;
+  }
+  .file{
+    border:none;
+    background-color:black;
+    width:20em;
+    height:20px;
+  }
+  .lop{
+    text-align: center;
+    margin-left:-3em;
+    font-style: italic;
+  }
+  .topic{
+    text-align: center;
+    margin-left: -2em;
+    font-weight: 900;
+    font-size: 22px;
+    color: deeppink;
+  }
+  .proc{
+    margin-left: 15px;
+    font-weight: 900;
+  }
